@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is an API for managing heroes and their superpowers, using ASP.NET Core with Entity Framework Core. The application allows for CRUD (Create, Read, Update, Delete) operations on heroes and their superpowers.
+This project is an API for managing heroes and their superpowers, using ASP.NET Core with Entity Framework Core for backend and Angular for frontend. The application allows for CRUD (Create, Read, Update, Delete) operations on heroes and their superpowers.
 
 ## Architecture
 
