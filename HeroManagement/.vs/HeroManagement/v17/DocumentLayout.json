@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\hero.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\hero.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\hero.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\hero.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\hero-list\\hero-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\hero-list\\hero-list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\hero-list\\hero-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\app\\hero-list\\hero-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|c:\\users\\user\\desktop\\heroi\\heromanagement\\hero-management-frontend\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6AAD182F-03EC-4B96-B0B9-722CF698FAA4}|HeroManagement.csproj|solutionrelative:hero-management-frontend\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:13:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.component.css",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T05:12:26.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:12:12.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.component.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:12:10.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.config.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:12:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "hero-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\hero-list\\hero-list.component.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\hero-list\\hero-list.component.ts",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:10:05.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.component.html",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-23T05:10:47.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hero.model.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero.model.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\hero.model.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero.model.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\hero.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:09:27.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hero.service.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero.service.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\hero.service.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero.service.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\hero.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:09:43.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "hero-list.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.spec.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\hero-list\\hero-list.component.spec.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.spec.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\hero-list\\hero-list.component.spec.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:12:22.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\app.module.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:10:34.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hero-list.component.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.css",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\hero-list\\hero-list.component.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.css",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\hero-list\\hero-list.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T05:12:19.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\index.html",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\index.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\index.html",
+              "RelativeToolTip": "hero-management-frontend\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-23T05:11:38.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\main.ts",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\main.ts",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\main.ts",
+              "RelativeToolTip": "hero-management-frontend\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-23T05:11:35.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "hero-list.component.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.html",
+              "RelativeDocumentMoniker": "hero-management-frontend\\src\\app\\hero-list\\hero-list.component.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Heroi\\HeroManagement\\hero-management-frontend\\src\\app\\hero-list\\hero-list.component.html",
+              "RelativeToolTip": "hero-management-frontend\\src\\app\\hero-list\\hero-list.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-23T05:10:17.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
